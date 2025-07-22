@@ -1,6 +1,8 @@
 # Text2Language 🌍  
 **Instant Language Detection Web App**
 
+Live: https://text2language-2.onrender.com/
+
 ---
 
 ## About
